@@ -1,0 +1,16 @@
+{
+    "name": "fadyelgendy/php_router",
+    "description": "Simple PHP Router",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fady Elgendy"
+        }
+    ],
+    "require": {}
+}
