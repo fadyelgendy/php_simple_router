@@ -6,3 +6,7 @@ Simple Router using PHP
 - `cd ` into the application folder
 - run `composer install` to add autoload
 - cd into `public` folder and run `php -S localhost:8000` to start navigating the project 
+
+### Check List
+- [ ] Other HTTP verbs support [POST, DELETE, UPDATE and PATCH]
+- [ ] Middlewares
